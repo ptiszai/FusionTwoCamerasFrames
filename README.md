@@ -23,24 +23,23 @@ Name of video list:<br>
 proba1Color.mp4  : 2  Mb<br>
 proba1Ir.mp4 : 2 Mb<br>
 You download, after them copy to .\x64\Release\ directory.<br>
-Running is "FusionTwoCamerasFrames.exe".
+Running is "FusionTwoCamerasFrames.exe".<br>
 ### Description
 Keys:<br>
 ' ', space key: toggle command: start/stop frames of video.<br>
 'q', quit  key: exit program.<br>
-On the image are the green color draw contours is selected wires, red color is not good objects, not selected.<br>
 
 ### Binary release files:
 Google Drive: https://drive.google.com/drive/folders/0B9rmVYV9c3x8TUstbzBYN1I2MTQ?usp=sharing <br>
 FusionTwoCamerasFrames-binary.zip<br>
-vc_redist.x64.exe
+vc_redist.x64.exe<br>
 
 ### Result:
 From 5 mins 10 secs in the video: https://www.youtube.com/watch?v=uoD2yhA_56o&feature=share
 
 ### Source:
-Dual camera system. Card is RaspBerry Pi 3.
-Color camera is 5 megapixels
+Dual camera system. Card is RaspBerry Pi 3<br>
+Color camera is 5 megapixels<br>
 Infra camera is FLIR Lepton: https://www.sparkfun.com/products/13233
 
 Hardware picture:
